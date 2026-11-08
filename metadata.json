@@ -1,0 +1,6 @@
+{
+  "name": "Store Picking",
+  "description": "Multi-team real-time store picking and order dispatch management system for Amazon, eBay, and webstores with live strike-off synchronization, wholesaler routing, and admin productivity monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
